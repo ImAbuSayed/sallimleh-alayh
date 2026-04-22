@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا روحي خذني إليك
+> في عيوني شوق غريب
+> كل نبضة تناديك
+> قلبي لك لا يغيب
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
