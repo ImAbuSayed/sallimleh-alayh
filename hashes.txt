@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sallimleh Alayh
+
+This log tracks the cryptographic history and versioning for the song **Sallimleh Alayh** (sallimleh-alayh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T13:19:08.371025 | `v1` | `7ba87c8dc6f097e6d5f12b36cd4c46c56b61b60442826dfdd51bfe8d01f6c943` | `7987c839dbcbdcd2d92da1c598c3618319dadc663aedfa35c7de07bff70b3a64` | `2026-05-09_sallimleh-alayh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
